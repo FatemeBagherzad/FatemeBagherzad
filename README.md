@@ -13,7 +13,7 @@ accessible, mobile-first — and design the APIs and data models behind them.
 
 ### What I'm building
 
-**[Rabva](https://github.com/FatemeBagherzad/Rabva)** — a Quran study platform
+**[Rabva](https://www.rabva.info:5443)** — a Quran study platform
 for readers, memorizers and researchers, in English, Persian and Arabic.
 
 - A reading view that scrolls continuously through all **6,236 verses** on
