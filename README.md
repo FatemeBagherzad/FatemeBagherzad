@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" alt="Fatemeh Bagherzad — full-stack developer, Toronto">
+</picture>
+
 ## Fatemeh Bagherzad
 
 Full-stack developer in Toronto. React, JavaScript, Python, and directing AI
