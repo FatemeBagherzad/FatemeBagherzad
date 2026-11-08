@@ -3,8 +3,6 @@
   <img src="banner-light.svg" alt="Fatemeh Bagherzad — full-stack developer, Toronto">
 </picture>
 
-## Fatemeh Bagherzad
-
 Full-stack developer in Toronto. React, JavaScript, Python, and directing AI
 coding agents against specifications I write.
 
