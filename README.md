@@ -25,7 +25,7 @@ for readers, memorizers and researchers, in English, Persian and Arabic.
   endpoints** — I wrote the data model and the endpoint contracts, then
   directed AI agents to implement them inside standards, tests and review
   gates I defined
-- Nine Docker services on AWS EC2 provisioned with Terraform, and **115
+- Eight Docker services on AWS EC2 provisioned with Terraform, and **115
   Playwright spec files / 500+ tests across six browser profiles** running
   before every push
 
